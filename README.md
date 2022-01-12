@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Un projet réalisé lorsque j'apprenais React avec OpenClassRoom
 
-![ju.png]
+![/ju.png]
 
 ## Available Scripts
 
